@@ -18,6 +18,7 @@ Create a DAO PROJECT. Rest assured, your deliverable won't be the entire company
 - Value Delivery: Project grants, incubation, educational events, and open-source tools for community management.
 
 Organizational Structure (OPS)
+
 - People: Onboarding, bounties, compensation policies.
 
 - Community: Documentation, moderation, support, translations.
