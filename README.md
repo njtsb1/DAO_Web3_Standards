@@ -11,4 +11,23 @@ Create a DAO PROJECT. Rest assured, your deliverable won't be the entire company
 
 ![Screenshot](./img/.png)
 
+- Name: VilaDAO
+
+- Mission: To foster local cultural and educational projects through crowdfunding, transparent governance, and active community participation.
+
+- Value Delivery: Project grants, incubation, educational events, and open-source tools for community management.
+
+- Organizational Structure (OPS)
+- People: Onboarding, bounties, compensation policies.
+
+- Community: Documentation, moderation, support, translations.
+
+- PR/Marketing: Social media, branding, fundraising campaigns.
+
+- Business Dev: Partnerships, listings, DAO-to-DAO collaborations.
+
+- Treasury: Multisig vault (Gnosis Safe), quarterly budgets, public reports.
+
+- Product & Engineering: Prototypes, integrations with Snapshot, SafeSnap, security audits.
+
 [LICENSE](/LICENSE)
